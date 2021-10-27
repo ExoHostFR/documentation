@@ -57,7 +57,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
           {
             href: 'https://exohost.fr',
@@ -70,11 +70,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Offres',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Minecraft',
+                href: 'https://exohost.fr/store/minecraft',
+              },
+              {
+                label: 'GTA RP',
+                href: 'https://exohost.fr/store/gtarp',
+              },
+              {
+                label: 'Node.JS',
+                href: 'https://exohost.fr/store/nodejs',
               },
             ],
           },
@@ -89,14 +97,26 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/exohostfr',
               },
+              {
+                label: 'contact@exohost.fr',
+                href: 'mailto:contact@exohost.fr',
+              },
             ],
           },
           {
-            title: 'More',
+            title: 'Plus',
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/ExoHostFR/documentation',
+                href: 'https://github.com/ExoHostFR/',
+              },
+              {
+                label: 'Site',
+                href: 'https://exohost.fr',
+              },
+              {
+                label: 'Panel',
+                href: 'https://panel.exohost.fr',
               },
             ],
           },

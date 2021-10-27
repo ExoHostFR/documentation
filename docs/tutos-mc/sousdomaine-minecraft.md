@@ -36,4 +36,4 @@ Ensuite, faite une autre redirection **SRV** pour pouvoir vous connecter sans me
 > - Priorité : **3600**
 > - Poids : **5**
 > - Port : Le port de votre serveur
-> - Cible : Ce que vous avez mis dans l'étape précecdente
+> - Cible : Ce que vous avez mis dans l'étape précedente
