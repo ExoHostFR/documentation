@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Erreurs communes
 
+Ici seront répertoriés toutes les erreurs possibles avec vos serveurs GTARP.
+
 ### Erreurs 1, 2, 126, 127, et 134
 
 Ces erreurs sont liées au dossier Alpine qui serait mal installé ou tout simplement inexistant. Pour le régler il faut :
