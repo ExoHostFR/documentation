@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://exohost.fr/assets/img/icon.png',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'ExoHostFR', // Usually your GitHub org/user name.
+  projectName: 'documentation', // Usually your repo name.
   i18n: {
     defaultLocale: 'fr',
     locales: ['fr', 'en'],
@@ -96,7 +96,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/ExoHostFR/documentation',
               },
             ],
           },
