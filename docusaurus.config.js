@@ -28,13 +28,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/ExoHostFR/documentation/edit/main/website/',
+          editUrl: 'https://github.com/ExoHostFR/documentation/edit/main/',
         },
         blog: {
           showReadingTime: false,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/ExoHostFR/documentation/edit/main/website/blog/',
+            'https://github.com/ExoHostFR/documentation/edit/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -62,6 +62,11 @@ const config = {
           {
             href: 'https://exohost.fr',
             label: 'Site ExoHost',
+            position: 'right',
+          },
+          {
+            href: 'https://panel.exohost.fr',
+            label: 'Panel de jeu',
             position: 'right',
           },
         ],
