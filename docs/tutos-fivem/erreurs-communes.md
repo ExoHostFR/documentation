@@ -14,7 +14,7 @@ Ces erreurs sont liées au dossier Alpine qui serait mal installé ou tout simpl
 - Puis aller dans **Paramètres**
 - Ensuite, cliquez sur **REINSTALL SERVER**
 
-![Supprimer son serveur](https://i.imgur.com/z269kWu.png)
+![Supprimer son serveur](https://i.imgur.com/sdu1Z6w.png)
 
 Votre serveur sera remis à zéro et fonctionnera parfaitement.
 
