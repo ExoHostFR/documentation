@@ -6,5 +6,5 @@ Documentation basé sur le projet opensource Docusaurus de Facebook.
 - Utilise ReactJS
 - Basé sur [github.com/facebook/docusaurus](https://github.com/facebook/docusaurus)
 
-[Lien](https://docs.exohost.fr)
-[Discord](https://discord.exohost.fr)
+> [Lien](https://docs.exohost.fr)
+> [Discord](https://discord.exohost.fr)
