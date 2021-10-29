@@ -9,7 +9,7 @@ Bonjour à vous et bienvenue sur ce tuto simple et rapide pour mettre un sous do
 ### Prérequis
 
 > - Un nom de domaine (Ici, on l'a mis sur Cloudflare, mais ca marche avec les autres sites sans problème)
-> - Un serveur de jeux (Chez [ExoHost](https://exohost.fr/store/fivem) par exemple)
+> - Un serveur de jeux (Chez [ExoHost](https://exohost.fr/store/gtarp) par exemple)
 
 *Dans cet exemple, je possède le domaine `dek.am` et je veux me connecter avec `play.dek.am` sur mon serveur `srv01.exohost.fr:25987`.*
 
