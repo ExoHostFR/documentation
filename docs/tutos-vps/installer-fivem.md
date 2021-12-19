@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Installer FiveM sur un VPS
 
-Bonjour à vous et bienvenue sur ce tuto simple et rapide pour mettre un sous domaine style **play.monserveur.com** sur votre serveur Minecraft.
+Bonjour à vous et bienvenue sur ce tuto simple et rapide pour installer FiveM sur votre VPS.
 
 ### Prérequis
 
