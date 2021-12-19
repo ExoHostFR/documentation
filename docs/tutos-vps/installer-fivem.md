@@ -29,7 +29,6 @@ mkdir -p /root/FXServer/server && cd /root/FXServer/server
 wget https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/5104-5ebb6dfe826667c841027d6dbc7390e42abfb196/fx.tar.xz 
 tar xf fx.tar.xz
 git clone https://github.com/citizenfx/cfx-server-data.git /root/FXServer/server-data
-
 ```
 *Note, la version d'artifact mise est la 5104, vous pouvez la changer en remplacent le lien par celui que vous choisissez [ici](https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/)*
 
